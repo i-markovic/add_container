@@ -5,7 +5,7 @@ I needed a unified way to add elements into STL containers. Under the hood, code
 
 Needs C++ compiler with concepts support.
 For MSVC, select:  
-Project Properties, General, C++ Language Standard > Preview - Features from the Latest C++ Working Draft (/std:c++latest) 
+- Project Properties, General, C++ Language Standard > Preview - Features from the Latest C++ Working Draft (/std:c++latest) 
 
 Example usage:
 

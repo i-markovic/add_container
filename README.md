@@ -1,7 +1,7 @@
 # add_container
  Simple template helper to add element(s) into STL containers, in a C++20 way 
 
-I needed a unified way to add elements into STL containers. Under the hood, code is calling right function for specific container, using the C++ requires concept. 
+I needed a unified way to add elements into STL containers. Under the hood, code is calling the right function for a specific container, using the C++ requires concept. 
 
 Needs C++ compiler with concepts support.
 For MSVC, select:  
